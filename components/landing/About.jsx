@@ -8,7 +8,7 @@ export const About = () => {
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
           <div className="animate-fade-in">
             <h2 className="text-4xl font-bold text-gray-900 mb-6">
-              Why Choose Digital Excellence Agency?
+              Why Choose Clate Marketing Agency?
             </h2>
             <p className="text-lg text-gray-600 mb-8">
               With over a decade of experience in digital marketing, we've

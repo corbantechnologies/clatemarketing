@@ -14,7 +14,7 @@ export const Footer = () => {
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
           <div>
             <h3 className="text-2xl font-bold mb-4 bg-gradient-to-r from-purple-400 to-pink-400 bg-clip-text text-transparent">
-              Digital Excellence
+              Clate Marketing
             </h3>
             <p className="text-gray-400 mb-6 leading-relaxed">
               Transforming businesses through innovative digital marketing
@@ -159,7 +159,7 @@ export const Footer = () => {
 
         <div className="border-t border-gray-800 mt-12 pt-8 text-center">
           <p className="text-gray-400">
-            © 2024 Digital Excellence Agency. All rights reserved.
+            © 2024 Clate Marketing Agency. All rights reserved.
           </p>
         </div>
       </div>
